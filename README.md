@@ -1,4 +1,4 @@
-# Hi, I'm Danila (Flipixcool)
+# Hi, I'm Flipixcool)
 
 - Information and Network Technologies student at NUST MISIS
 - Interested in Data Engineering and Data Platforms
