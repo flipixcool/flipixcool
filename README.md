@@ -4,7 +4,7 @@
 - Interested in Data Engineering and Data Platforms
 - Building projects with Python, SQL, PostgreSQL, dbt, Airflow, Kafka and ClickHouse
 
-📫 Contact: Telegram — @your_username
+📫 Contact: Telegram — @flipixcool
 
 ## Tech Stack
 
@@ -19,6 +19,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flipixcool&show_icons=true&theme=default)
+
